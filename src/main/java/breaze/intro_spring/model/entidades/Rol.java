@@ -1,4 +1,4 @@
-package breaze.intro_spring.entidades;
+package breaze.intro_spring.model.entidades;
 
 import jakarta.persistence.*;
 import lombok.Data;

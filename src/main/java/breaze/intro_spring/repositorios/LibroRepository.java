@@ -1,6 +1,6 @@
 package breaze.intro_spring.repositorios;
 
-import breaze.intro_spring.entidades.Libro;
+import breaze.intro_spring.model.entidades.Libro;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

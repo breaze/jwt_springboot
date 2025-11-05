@@ -1,12 +1,12 @@
 package breaze.intro_spring.services.impl;
 
-import breaze.intro_spring.dto.CrearLibroInDTO;
-import breaze.intro_spring.dto.CrearLibroOutDTO;
-import breaze.intro_spring.dto.LibroCategoriaDTO;
-import breaze.intro_spring.entidades.Autor;
-import breaze.intro_spring.entidades.Categoria;
-import breaze.intro_spring.entidades.Libro;
-import breaze.intro_spring.entidades.LibroCategoria;
+import breaze.intro_spring.model.dto.CrearLibroInDTO;
+import breaze.intro_spring.model.dto.CrearLibroOutDTO;
+import breaze.intro_spring.model.dto.LibroCategoriaDTO;
+import breaze.intro_spring.model.entidades.Autor;
+import breaze.intro_spring.model.entidades.Categoria;
+import breaze.intro_spring.model.entidades.Libro;
+import breaze.intro_spring.model.entidades.LibroCategoria;
 import breaze.intro_spring.repositorios.LibroRepository;
 import breaze.intro_spring.services.IAutorService;
 import breaze.intro_spring.services.ICategoriaService;

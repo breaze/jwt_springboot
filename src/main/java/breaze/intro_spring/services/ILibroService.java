@@ -2,9 +2,9 @@ package breaze.intro_spring.services;
 
 
 
-import breaze.intro_spring.dto.CrearLibroInDTO;
-import breaze.intro_spring.dto.CrearLibroOutDTO;
-import breaze.intro_spring.entidades.Libro;
+import breaze.intro_spring.model.dto.CrearLibroInDTO;
+import breaze.intro_spring.model.dto.CrearLibroOutDTO;
+import breaze.intro_spring.model.entidades.Libro;
 
 import java.util.List;
 import java.util.Optional;

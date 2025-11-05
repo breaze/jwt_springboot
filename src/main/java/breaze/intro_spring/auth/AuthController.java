@@ -1,8 +1,8 @@
 package breaze.intro_spring.auth;
 
-import breaze.intro_spring.dto.RegisterRequest;
-import breaze.intro_spring.entidades.Rol;
-import breaze.intro_spring.entidades.Usuario;
+import breaze.intro_spring.model.dto.RegisterRequest;
+import breaze.intro_spring.model.entidades.Rol;
+import breaze.intro_spring.model.entidades.Usuario;
 import breaze.intro_spring.repositorios.RolRepository;
 import breaze.intro_spring.repositorios.UsuarioRepository;
 import lombok.RequiredArgsConstructor;

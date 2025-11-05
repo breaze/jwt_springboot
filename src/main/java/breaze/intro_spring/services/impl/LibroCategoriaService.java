@@ -1,6 +1,6 @@
 package breaze.intro_spring.services.impl;
 
-import breaze.intro_spring.entidades.LibroCategoria;
+import breaze.intro_spring.model.entidades.LibroCategoria;
 import breaze.intro_spring.repositorios.LibroCategoriaRepository;
 import breaze.intro_spring.services.ILibroCategoriaService;
 import org.springframework.stereotype.Service;

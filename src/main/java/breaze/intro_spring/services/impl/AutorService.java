@@ -1,6 +1,6 @@
 package breaze.intro_spring.services.impl;
 
-import breaze.intro_spring.entidades.Autor;
+import breaze.intro_spring.model.entidades.Autor;
 import breaze.intro_spring.repositorios.AutorRepository;
 import breaze.intro_spring.services.IAutorService;
 import org.springframework.stereotype.Service;

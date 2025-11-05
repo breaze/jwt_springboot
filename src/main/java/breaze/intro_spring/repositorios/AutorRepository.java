@@ -1,6 +1,6 @@
 package breaze.intro_spring.repositorios;
 
-import breaze.intro_spring.entidades.Autor;
+import breaze.intro_spring.model.entidades.Autor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

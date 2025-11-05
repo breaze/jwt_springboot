@@ -1,6 +1,6 @@
 package breaze.intro_spring.repositorios;
 
-import breaze.intro_spring.entidades.Rol;
+import breaze.intro_spring.model.entidades.Rol;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

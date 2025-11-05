@@ -1,6 +1,6 @@
 package breaze.intro_spring.services;
 
-import breaze.intro_spring.entidades.LibroCategoria;
+import breaze.intro_spring.model.entidades.LibroCategoria;
 
 import java.util.Set;
 

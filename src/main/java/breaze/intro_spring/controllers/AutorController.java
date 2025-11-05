@@ -1,6 +1,6 @@
 package breaze.intro_spring.controllers;
 
-import breaze.intro_spring.entidades.Autor;
+import breaze.intro_spring.model.entidades.Autor;
 import breaze.intro_spring.services.IAutorService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

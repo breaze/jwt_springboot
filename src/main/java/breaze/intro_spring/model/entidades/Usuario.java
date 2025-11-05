@@ -1,4 +1,4 @@
-package breaze.intro_spring.entidades;
+package breaze.intro_spring.model.entidades;
 
 // Importaciones para JPA, Lombok y Spring Security
 import jakarta.persistence.*; // Anotaciones para entidades y relaciones
@@ -8,7 +8,6 @@ import org.springframework.security.core.userdetails.UserDetails; // Interfaz pa
 
 import java.util.Collection; // Colección para roles
 import java.util.HashSet; // Implementación de Set
-import java.util.List; // Utilidad para listas
 import java.util.Set; // Interfaz para roles
 import java.util.stream.Collectors; // Utilidad para transformar colecciones
 

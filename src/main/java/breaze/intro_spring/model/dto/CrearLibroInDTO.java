@@ -1,4 +1,4 @@
-package breaze.intro_spring.dto;
+package breaze.intro_spring.model.dto;
 
 import lombok.Data;
 

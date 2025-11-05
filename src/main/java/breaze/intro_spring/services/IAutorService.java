@@ -1,6 +1,6 @@
 package breaze.intro_spring.services;
 
-import breaze.intro_spring.entidades.Autor;
+import breaze.intro_spring.model.entidades.Autor;
 import java.util.List;
 import java.util.Optional;
 
